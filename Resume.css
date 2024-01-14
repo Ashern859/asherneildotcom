@@ -1,0 +1,82 @@
+/* resume.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F0E5D8; /* Light beige background */
+}
+
+header {
+    background-color: #6D6875; /* Dark lavender header */
+    color: #F4EAE6; /* Light cream text */
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+nav {
+    background-color: #434B56; /* Dark grayish blue navigation */
+    color: #F4EAE6;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: #F4EAE6;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 1em;
+}
+
+main img {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+main {
+    padding: 2em;
+}
+
+/* Education Section */
+#education {
+    background-color: #8D99AE; /* Pastel blue education section */
+    color: #1F2041; /* Dark indigo text */
+    padding: 1em;
+    margin: 1em 0;
+}
+
+/* Experience Section */
+#experience {
+    background-color: #CDB4DB; /* Light lavender experience section */
+    color: #4B3F72; /* Dark violet text */
+    padding: 1em;
+    margin: 1em 0;
+}
+
+/* Skills Section */
+#skills {
+    background-color: #A2A392; /* Light taupe skills section */
+    color: #33312E; /* Dark brownish gray text */
+    padding: 1em;
+    margin: 1em 0;
+}
+
+footer {
+    background-color: #434B56; /* Dark grayish blue footer */
+    color: #F4EAE6;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

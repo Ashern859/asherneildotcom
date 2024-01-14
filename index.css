@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #86BBD8;
+}
+
+header {
+    background-color: #9EE493;
+    color: #202020;
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px; /* Adjust the value for h1 as needed */
+}
+
+h2 {
+    font-size: 20px; /* Adjust the value for h2 as needed */
+}
+
+nav {
+    background-color: #2F4858;
+    color: #F0EAD6;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: #F0EAD6;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 1em;
+}
+
+main img {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+}
+
+main {
+    padding: 2em;
+    flex: 1; 
+}
+
+
+
+footer {
+    background-color: #2F4858;
+    color: #F0EAD6;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer p {
+    line-height: 1; /* Adjust the line-height value as needed */
+    margin: 0; /* Remove any default margin */
+}
+
+section {
+    background-color: #508C96; /* Seafoam green contact sections */
+    color: #F0F7F4;
+    padding: 1em;
+    margin: 1em 0;
+}
