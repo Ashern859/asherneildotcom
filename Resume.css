@@ -69,6 +69,14 @@ main {
     margin: 1em 0;
 }
 
+/* Skills Section */
+#systems-experience {
+    background-color: #A2A392; /* Light taupe skills section */
+    color: #33312E; /* Dark brownish gray text */
+    padding: 1em;
+    margin: 1em 0;
+}
+
 footer {
     background-color: #434B56; /* Dark grayish blue footer */
     color: #F4EAE6;
