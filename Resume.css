@@ -30,7 +30,7 @@ nav {
 nav a {
     color: #F4EAE6;
     text-decoration: none;
-    padding: 2em, 5%;
+    padding: 1em;
     margin: 0 1em;
 }
 
@@ -43,7 +43,7 @@ main img {
 }
 
 main {
-    padding: 2em;
+    padding: 2em 5%;
 }
 
 section {
