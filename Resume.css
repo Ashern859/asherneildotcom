@@ -63,16 +63,16 @@ main {
 
 /* Skills Section */
 #skills {
-    background-color: #A2A392; /* Light taupe skills section */
-    color: #33312E; /* Dark brownish gray text */
+    background-color: #8D99AE; /* Pastel blue education section */
+    color: #1F2041; /* Dark indigo text */
     padding: 1em;
     margin: 1em 0;
 }
 
 /* Skills Section */
 #systems-experience {
-    background-color: #8D99AE; /* Pastel blue education section */
-    color: #1F2041; /* Dark indigo text */
+    background-color: #CDB4DB; /* Light lavender experience section */
+    color: #4B3F72; /* Dark violet text */
     padding: 1em;
     margin: 1em 0;
 }
