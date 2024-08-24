@@ -39,6 +39,7 @@ main img {
     height: auto;
     display: block;
     margin: 0 auto;
+    padding: 2em;
 }
 
 main {
