@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #F0E5D8; /* Light beige background */
+    background-color: #D6E4F0; /* Light blue-gray background */
 }
 
 header {
-    background-color: #6D6875; /* Dark lavender header */
-    color: #F4EAE6; /* Light cream text */
+    background-color: #4E8EA5; /* Teal header */
+    color: #F0F7F4; /* Light mint text */
     padding: 1em;
     text-align: center;
 }
@@ -21,65 +21,40 @@ h2 {
 }
 
 nav {
-    background-color: #434B56; /* Dark grayish blue navigation */
-    color: #F4EAE6;
+    background-color: #2E4A62; /* Dark teal navigation */
+    color: #F0F7F4;
     padding: 1em;
     text-align: center;
 }
 
 nav a {
-    color: #F4EAE6;
+    color: #F0F7F4;
     text-decoration: none;
     padding: 1em;
     margin: 0 1em;
 }
 
-main img {
-    max-width: 40%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+main {
     padding: 2em;
 }
 
-main {
-    padding: 2em 5%;
-}
-
 section {
-    background-color: #8D99AE; /* Background color for boxed sections */
-    color: #1F2041; /* Text color */
-    padding: 1.5em; /* Box padding */
-    margin: 1.5em 0; /* Space between boxes */
-}
-
-/* Section-specific colors */
-#education {
-    background-color: #8D99AE; /* Pastel blue education section */
-    color: #1F2041; /* Dark indigo text */
-}
-
-#experience {
-    background-color: #CDB4DB; /* Light lavender experience section */
-    color: #4B3F72; /* Dark violet text */
-}
-
-#skills {
-    background-color: #A2A392; /* Light taupe skills section */
-    color: #33312E; /* Dark brownish gray text */
-}
-
-#systems-experience {
-    background-color: #8D99AE; /* Pastel blue systems experience section */
-    color: #1F2041; /* Dark indigo text */
+    background-color: #508C96; /* Seafoam green sections */
+    color: #F0F7F4;
+    padding: 1em;
+    margin: 1em 0;
 }
 
 footer {
-    background-color: #434B56; /* Dark grayish blue footer */
-    color: #F4EAE6;
+    background-color: #2E4A62; /* Dark teal footer */
+    color: #F0F7F4;
     text-align: center;
     height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
 }
