@@ -45,36 +45,32 @@ main {
     padding: 2em;
 }
 
-/* Education Section */
+section {
+    background-color: #8D99AE; /* Background color for boxed sections */
+    color: #1F2041; /* Text color */
+    padding: 1.5em; /* Box padding */
+    margin: 1.5em 0; /* Space between boxes */
+}
+
+/* Section-specific colors */
 #education {
     background-color: #8D99AE; /* Pastel blue education section */
     color: #1F2041; /* Dark indigo text */
-    padding: 1em;
-    margin: 1em 0;
 }
 
-/* Experience Section */
 #experience {
     background-color: #CDB4DB; /* Light lavender experience section */
     color: #4B3F72; /* Dark violet text */
-    padding: 1em;
-    margin: 1em 0;
 }
 
-/* Skills Section */
 #skills {
     background-color: #A2A392; /* Light taupe skills section */
     color: #33312E; /* Dark brownish gray text */
-    padding: 1em;
-    margin: 1em 0;
 }
 
-/* Skills Section */
 #systems-experience {
-    background-color: #8D99AE; /* Pastel blue education section */
+    background-color: #8D99AE; /* Pastel blue systems experience section */
     color: #1F2041; /* Dark indigo text */
-    padding: 1em;
-    margin: 1em 0;
 }
 
 footer {
